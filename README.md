@@ -1,5 +1,5 @@
 # Sentor_G | SenMON
-**A list of rules for the Kōsei SenMON challenge!**<br><br>Kōsei essentially means 'Configuration/Calibration' in Japanese.<br><br>The idea behind the challenge is to run Pokémon (who do not typically have a chance) through Pokémon Platinum in an IronMON-inspired challenge format.<br><br>✦ Each Pokémon will receive **FIVE** chances at a run before moving on to the next target. (Lab resets)<br>✦ I will be able to give a Nature, Ability and **ONE** move of my choice to the potential runner.<br>✦ 250 EV cap to spend.<br>✦ Lab battle always has Munchlax (160exp @ level 8).
+**A list of rules for the Kōsei SenMON challenge!**<br><br>Kōsei essentially means 'Configuration/Calibration' in Japanese.<br><br>The idea behind the challenge is to run Pokémon (who do not typically have a chance) through Pokémon Platinum in an IronMON-inspired challenge format.<br><br>✦ Each Pokémon will receive **FIVE** chances at a run before moving on to the next target. (Lab resets)<br>✦ I will be able to give a Nature and **ONE** move of my choice to the potential runner.<br>✦ 250 EV cap to spend.<br>✦ Lab battle always has Munchlax (160exp @ level 8).
 
 ## Kōsei SenMON:
 | **Rule:** | **Description:** |
