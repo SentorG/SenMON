@@ -6,7 +6,7 @@
 |:-:|:-|
 | Kaizo-pilled | Most rules from [**Kaizo IronMON**](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1#kaizo-ironmon-ruleset) apply to the challenge.<br>Any adjustments or changes will be noted below. ⬇️ |
 | No Pivot | Level 5 minimum catch rate percentage (guaranteed). |
-| One TM Per Split | TM/Levelup Move Sanity active.<br>One ground/gift TM can be taught per split.<br>If the HM friend is holding a TM, this counts as a 'gift'.<br><br>-- SenMON Splits: --<br>Roark, Gardenia, Fantina, Wake (one TM for Maylene AND Wake's badges), Byron, Candice, Galactic, Volkner, E4. |
+| One TM Per Split | TM/Levelup Move Sanity active.<br>100% learnable TMs.<br>One ground/gift TM can be taught per split.<br>If the HM friend is holding a TM, this counts as a 'gift'.<br><br>-- SenMON Splits: --<br>Roark, Gardenia, Fantina, Wake (one TM for Maylene AND Wake's badges), Byron, Candice, Galactic, Volkner, E4. |
 | Tutor Cope | Fully compatible Move Tutor.<br>Shards now usable! |
 | Fixed Rotom | Rotom has had their alternate forms' typing adjusted so that they match Gen 5.<br>Stats still follow Gen 4 code rules for enemy trainers. |
 | Chud Berries | Requires damage-reducing and pinch berries to be added to the pool of randomised items. |
